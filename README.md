@@ -1,10 +1,15 @@
-# KERAS PROJECTS
+# ADVANCED KERAS PROJECTS
 
-This repo contains a set of example datasets that I extensively practiced on Keras 
-Done keras practice on 
+This repo contains a set of example datasets that I extensively practiced on ADVANCED Keras neural networks
+
+Done practice on below datasets
+
 CIFAR 10,
+
 CIFAR 100, 
+
 FASHION MNIST, 
+
 [FRUITS DATASET](https://www.kaggle.com/moltean/fruits)
 
 Please download the above for running the code 
