@@ -1,5 +1,13 @@
-# Keras-Project
+# KERAS PROJECTS
+
 This repo contains a set of example datasets that I extensively practiced on Keras 
+Done keras practice on 
+CIFAR 10,
+CIFAR 100, 
+FASHION MNIST, 
+[FRUITS DATASET](https://www.kaggle.com/moltean/fruits)
+
+Please download the above for running the code 
 
 ### TENSORBOARD RESULTS
 [TENSORBOARD DEV LINK](https://tensorboard.dev/experiment/K0mHOxM0RoW5AVPZVytkSw/#scalars)
