@@ -10,4 +10,6 @@ FASHION MNIST,
 Please download the above for running the code 
 
 ### TENSORBOARD RESULTS
-[TENSORBOARD DEV LINK](https://tensorboard.dev/experiment/K0mHOxM0RoW5AVPZVytkSw/#scalars)
+[CIFAR TENSORBOARD DEV LINK](https://tensorboard.dev/experiment/K0mHOxM0RoW5AVPZVytkSw/#scalars)
+[MNIST TENSORBOARD DEV LINK](https://tensorboard.dev/experiment/KZnoWAC0QB2JGQ9qKhym9Q/#scalars)
+[FRUITS TENSORBOARD DEV LINK](https://tensorboard.dev/experiment/KZnoWAC0QB2JGQ9qKhym9Q/#scalars)
