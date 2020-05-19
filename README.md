@@ -14,4 +14,4 @@ Please download the above for running the code
 
 [MNIST TENSORBOARD DEV LINK](https://tensorboard.dev/experiment/KZnoWAC0QB2JGQ9qKhym9Q/#scalars)
 
-[FRUITS TENSORBOARD DEV LINK](https://tensorboard.dev/experiment/KZnoWAC0QB2JGQ9qKhym9Q/#scalars)
+[FRUITS TENSORBOARD DEV LINK](https://tensorboard.dev/experiment/g8iYv7RPRKKsoLGsOV7vUQ/#scalars)
